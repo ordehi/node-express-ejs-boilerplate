@@ -7,8 +7,9 @@ A boilerplate/starter project for building websites with Node, Express, and EJS.
 Clone the repo:
 
 ```bash
-git clone --depth 1 https://github.com/ordehi/node-express-ejs-boilerplate.git
+git clone https://github.com/ordehi/node-express-ejs-boilerplate.git
 cd node-express-ejs-boilerplate
+git remote rm origin
 ```
 
 Install the dependencies:
